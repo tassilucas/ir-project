@@ -1,7 +1,7 @@
 import numpy as np
 
-f1_name = "ltr_data/search_engine_res.dat"
-f2_name = "ltr_data/predictions"
+f1_name = "dataset/search_engine_res.dat"
+f2_name = "dataset/predictions"
 
 ranking = {}
 
